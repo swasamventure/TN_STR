@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://swasamventure.github.io/TN_STR/sitemap.xml
