@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://swasamventure.github.io/TN_STR/sitemap.xml
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Page not found | ArborVista Retreat</title><style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#19382f;color:#fff;font-family:Arial;text-align:center}h1{font:64px Georgia;margin:0 0 12px}a{color:#fff}</style></head><body><main><h1>Lost in the woods?</h1><p>This page could not be found.</p><a href="/TN_STR/">Return to ArborVista Retreat</a></main></body></html>
