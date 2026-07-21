@@ -23,3 +23,6 @@ IMPORTANT
 - Do not upload this ZIP file into the repository. Extract it first.
 - Current booking buttons point to Airbnb room 1587774879621242014.
 - Google Analytics is not included because no GA4 Measurement ID was provided.
+
+IMAGE FIT UPDATE
+All website photos now use contain-style sizing so the complete image remains visible without cropping. Dark neutral space may appear around photos whose aspect ratio differs from the browser window.
