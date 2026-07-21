@@ -4,3 +4,29 @@
 @media(max-width:950px){.main-nav{position:fixed;inset:0;background:var(--forest-dark);color:#fff;flex-direction:column;justify-content:center;font-family:var(--serif);font-size:32px;transform:translateX(100%);transition:.35s}.main-nav.open{transform:none}.menu-toggle{display:block;z-index:2}.site-header.menu-open .brand{z-index:2}.site-header.menu-open .brand img{filter:brightness(0) invert(1)}.hero-facts{display:none}.intro,.location,.airbnb-section,.faq,.planner{grid-template-columns:1fr}.amenity-grid{grid-template-columns:1fr 1fr}.amenity:nth-child(2){border-right:0}.destination-grid{grid-template-columns:1fr 1fr}.live-strip{grid-template-columns:1fr}.faq{gap:45px}footer{grid-template-columns:1fr 1fr}.footer-links{grid-column:1/-1;justify-content:flex-start}}
 @media(max-width:620px){body{padding-bottom:65px}.site-header{height:72px}.brand img{width:160px}.hero{min-height:620px}.hero-content{top:48%}.hero-copy{font-size:16px}.hero-actions{align-items:flex-start;flex-direction:column;gap:20px}.hero-dots{bottom:25px}.section{padding-top:82px;padding-bottom:82px}.intro{gap:25px}.amenity-grid{grid-template-columns:1fr;margin-top:50px}.amenity,.amenity:not(:first-child){padding:25px 0;border-right:0;border-bottom:1px solid rgba(255,255,255,.18);min-height:0}.amenity h3{margin:25px 0 8px}.gallery-heading{align-items:start;flex-direction:column}.masonry{columns:1}.destination-grid{grid-template-columns:1fr}.airbnb-card{padding:12px}.closing{min-height:600px}footer{grid-template-columns:1fr;padding-bottom:45px}.footer-links{grid-column:auto;flex-wrap:wrap}.mobile-book{display:flex;position:fixed;z-index:90;left:0;right:0;bottom:0;height:65px;background:#fff;align-items:center;justify-content:space-between;padding:0 18px;box-shadow:0 -5px 20px rgba(0,0,0,.1);font-size:11px}.mobile-book span{color:#657069}.mobile-book strong{background:var(--forest);color:#fff;padding:11px 13px;text-transform:uppercase;letter-spacing:.04em}.lightbox-nav{width:42px;height:58px;font-size:38px}.lightbox-nav.prev{left:4px}.lightbox-nav.next{right:4px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.hero-slide.active{animation:none}.reveal{opacity:1;transform:none;transition:none}}
+
+/* Production typography and readability pass */
+:root{--body-size:18px}
+body{font-size:var(--body-size);line-height:1.72;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+.main-nav{font-size:16px;gap:32px}
+.nav-cta{padding:11px 18px}
+.hero-copy{font-size:clamp(18px,1.65vw,22px);line-height:1.62;max-width:680px}
+.eyebrow{font-size:13px}
+.button{min-height:54px;padding:0 27px;font-size:15px}
+.hero-facts{font-size:15px}.hero-facts strong{font-size:25px}
+.intro-copy,.location-copy>p:not(.eyebrow),.airbnb-copy>p:not(.eyebrow){font-size:19px;line-height:1.78}
+.amenity p,.destination-grid p{font-size:17px;line-height:1.7}
+.amenity h3{font-size:31px}.amenity>span,.destination-grid span{font-size:13px}
+.gallery-heading>p{font-size:18px;max-width:620px}
+.gallery-filter button{font-size:15px;padding:11px 18px}
+.planner-options button{font-size:17px;padding:20px 22px}
+.planner-result{font-size:18px}.planner-result h3{font-size:40px}.planner-result li{padding:9px 0}
+.live-strip strong{font-size:31px}.live-strip small{font-size:15px}
+.destination-grid h3{font-size:33px}.destination-grid b{font-size:14px}
+.location-links{font-size:15px}
+.accordion summary{font-size:18px;padding:27px 0}.accordion details p{font-size:17px;line-height:1.75}
+footer{font-size:15px}
+.image-caption,.map-card span,.lightbox-count{font-size:14px}
+.gallery-item:focus-visible,.gallery-filter button:focus-visible,.planner-options button:focus-visible,.button:focus-visible,a:focus-visible{outline:3px solid #d9a95b;outline-offset:4px}
+.gallery-item img{background:#102820}
+@media(max-width:620px){body{font-size:17px}.main-nav{font-size:34px}.hero-copy{font-size:18px}.button{font-size:14px}.intro-copy,.location-copy>p:not(.eyebrow),.airbnb-copy>p:not(.eyebrow){font-size:18px}.gallery-heading>p{font-size:17px}.amenity p,.destination-grid p,.accordion details p{font-size:16px}.mobile-book{font-size:13px}}
