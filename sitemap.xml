@@ -1,2 +1,169 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://swasamventure.github.io/TN_STR/</loc><lastmod>2026-07-21</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url></urlset>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>ArborVista Retreat | Quiet Cabin Near Dollywood in Sevierville</title>
+<meta content="ArborVista Retreat is a quiet, private two-bedroom Smoky Mountain cabin with an open arcade loft, four beds, 2.5 baths, a private hot tub, and gated resort amenities near Dollywood, Pigeon Forge, and Gatlinburg." name="description"/>
+<meta content="#18372f" name="theme-color"/>
+<meta content="index,follow" name="robots"/>
+<link href="https://swasamventure.github.io/TN_STR/" rel="canonical"/>
+<meta content="website" property="og:type"/>
+<meta content="ArborVista Retreat | Sevierville, Tennessee" property="og:title"/>
+<meta content="A quiet, private Smoky Mountain retreat with two main-level suites, an open loft with two twin beds, a private hot tub, and resort amenities. Sleeps six." property="og:description"/>
+<meta content="https://swasamventure.github.io/TN_STR/" property="og:url"/>
+<meta content="https://swasamventure.github.io/TN_STR/images/hero/2732PC-1.jpeg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<link href="assets/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link as="image" href="images/hero/2732PC-1.jpeg" rel="preload"/>
+<link href="css/style.css" rel="stylesheet"/>
+<script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"VacationRental",
+    "name":"ArborVista Retreat",
+    "description":"Quiet and private two-bedroom vacation rental cabin with an open loft in Sevierville, Tennessee, featuring four beds, 2.5 bathrooms, a private hot tub, fireplaces, arcade games, and Shagbark Resort amenities.",
+    "url":"https://swasamventure.github.io/TN_STR/",
+    "image":["https://swasamventure.github.io/TN_STR/images/hero/2732PC-1.jpeg"],
+    "address":{"@type":"PostalAddress","addressLocality":"Sevierville","addressRegion":"TN","addressCountry":"US"},
+    "numberOfBedrooms":2,
+    "numberOfBathroomsTotal":2.5,
+    "occupancy":{"@type":"QuantitativeValue","maxValue":6},
+    "amenityFeature":[
+      {"@type":"LocationFeatureSpecification","name":"Private outdoor hot tub","value":true},
+      {"@type":"LocationFeatureSpecification","name":"Open loft with two twin beds and arcade games","value":true},
+      {"@type":"LocationFeatureSpecification","name":"Full kitchen","value":true},
+      {"@type":"LocationFeatureSpecification","name":"High-speed Wi-Fi","value":true},
+      {"@type":"LocationFeatureSpecification","name":"Free on-site parking","value":true},
+      {"@type":"LocationFeatureSpecification","name":"Washer and dryer","value":true},
+      {"@type":"LocationFeatureSpecification","name":"Seasonal resort pool access","value":true}
+    ],
+    "sameAs":"https://www.airbnb.com/rooms/1587774879621242014"
+  }
+  </script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header" id="siteHeader">
+<a aria-label="ArborVista Retreat home" class="brand" href="#top"><img alt="ArborVista Retreat" height="50" src="assets/logo.svg" width="190"/></a>
+<button aria-controls="mainNav" aria-expanded="false" aria-label="Open navigation" class="menu-toggle"><span></span><span></span></button>
+<nav aria-label="Primary navigation" class="main-nav" id="mainNav"><a href="#stay">Amenities</a><a href="#gallery">Gallery</a><a href="#nearby">Nearby</a><a href="#reviews">Reviews</a><a href="#rules">House rules</a><a href="#faq">FAQ</a><a class="nav-cta" href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1" rel="noopener" target="_blank">Check availability</a></nav>
+</header>
+<main id="main">
+<section aria-label="ArborVista Retreat hero" class="hero" id="top">
+<div aria-hidden="true" class="hero-slides">
+<div class="hero-slide active" style="background-image:url('images/hero/2732PC-1.jpeg')"></div>
+<div class="hero-slide" style="background-image:url('images/living/2732PC-2.jpeg')"></div>
+<div class="hero-slide" style="background-image:url('images/hot-tub/2732PC-20.jpeg')"></div>
+<div class="hero-slide" style="background-image:url('images/kitchen/2732PC-10.jpeg')"></div>
+</div>
+<div class="hero-shade"></div>
+<div class="hero-content reveal">
+<p class="eyebrow light">Sevierville · Tennessee</p>
+<h1>Come for the mountains.<br/><em>Stay for the feeling.</em></h1>
+<p class="hero-copy">A quiet, private retreat inside gated Shagbark Resort—close to Dollywood, Pigeon Forge, Gatlinburg, and the national park, yet comfortably away from the crowds.</p>
+<div class="hero-actions">
+<a class="button button-primary" href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1" rel="noopener" target="_blank">Check availability</a>
+<a class="text-link light" href="#gallery">Explore the cabin <span>↘</span></a>
+</div>
+</div>
+<div class="hero-facts"><span><strong>2</strong> bedrooms + loft</span><span><strong>4</strong> beds</span><span><strong>2.5</strong> baths</span><span><strong>6</strong> guests</span></div>
+<div aria-label="Hero slideshow controls" class="hero-dots"><button aria-label="Show slide 1" class="active"></button><button aria-label="Show slide 2"></button><button aria-label="Show slide 3"></button><button aria-label="Show slide 4"></button></div>
+</section><section aria-label="Property highlights" class="trust-strip"><span>★★★★★ Highly rated</span><span>🌲 Quiet gated resort</span><span>🛁 Private hot tub</span><span>🕹️ Arcade loft</span><span>📍 12 miles to Dollywood</span></section>
+<section class="intro section" id="welcome">
+<div class="intro-title reveal"><p class="eyebrow">Welcome home</p><h2>Close to everything. Away from the crowds.</h2></div>
+<div class="intro-copy reveal"><p>ArborVista Retreat is designed for families and couples who want a peaceful wooded setting without giving up convenient access to the Smokies’ most popular attractions.</p><p>Enjoy two private main-level suites, a playful open loft for kids and teens, an expansive deck, and evenings in your private hot tub surrounded by mountain calm.</p></div>
+</section>
+<section class="feature-image reveal"><img alt="Bright living room at ArborVista Retreat" loading="lazy" src="images/living/2732PC-2.jpeg"/><div class="image-caption">Designed for together time</div></section>
+<section class="stay section" id="stay">
+<div class="section-heading reveal"><p class="eyebrow">The experience</p><h2>Everything for an easy,<br/>comfortable mountain stay.</h2></div>
+<div class="amenity-checklist"><article class="amenity-card reveal"><span aria-hidden="true">🛁</span><h3>Private hot tub</h3><p>A secluded outdoor soak after a day in the Smokies.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🕹️</span><h3>Arcade loft</h3><p>Open loft with two twin beds, ideal for kids and teens.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🛏️</span><h3>Two main-level suites</h3><p>King and Queen suites, each with an ensuite bathroom.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🔥</span><h3>Three fireplaces</h3><p>Fireplaces in the living room and both main-level suites.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🍳</span><h3>Full kitchen</h3><p>Dishwasher, cookware, dishes, coffee maker, microwave, oven, refrigerator, and stove.</p></article><article class="amenity-card reveal"><span aria-hidden="true">📶</span><h3>Strong Wi-Fi</h3><p>Reliable connectivity for streaming or remote work.</p></article><article class="amenity-card reveal"><span aria-hidden="true">📺</span><h3>Four Smart TVs</h3><p>Modern entertainment throughout the cabin.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🧺</span><h3>Washer &amp; dryer</h3><p>Laundry convenience for longer stays.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🚗</span><h3>Free parking</h3><p>Off-street parking for two to three vehicles.</p></article><article class="amenity-card reveal"><span aria-hidden="true">❄️</span><h3>Central air</h3><p>Central heating and air conditioning.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🌅</span><h3>Expansive deck</h3><p>Outdoor dining, seating, gas grill, and wooded views.</p></article><article class="amenity-card reveal"><span aria-hidden="true">🏊</span><h3>Resort amenities</h3><p>Seasonal pool, courts, playground, trails, and more.</p></article></div>
+</section>
+<section class="gallery section" id="gallery">
+<div class="section-heading gallery-heading reveal"><div><p class="eyebrow">Inside ArborVista</p><h2>Explore your stay</h2></div><p>Select a space, then tap any image.</p></div>
+<div aria-label="Filter property photos" class="gallery-filter" role="group">
+<button class="active" data-filter="all">All photos</button>
+<button data-filter="highlights">Highlights</button>
+<button data-filter="living">Living</button>
+<button data-filter="kitchen">Kitchen &amp; dining</button>
+<button data-filter="bedrooms">Bedrooms</button>
+<button data-filter="bathrooms">Bathrooms</button>
+<button data-filter="hot-tub">Hot tub</button>
+</div>
+<div aria-live="polite" class="masonry">
+<button class="gallery-item" data-alt="ArborVista Retreat exterior and mountain setting" data-category="highlights" data-image="images/hero/2732PC-1.jpeg"><img alt="ArborVista Retreat exterior and mountain setting" loading="lazy" src="images/hero/2732PC-1.jpeg"/></button>
+<button class="gallery-item" data-alt="ArborVista Retreat signature view" data-category="highlights" data-image="images/hero/2732PCu24-5.jpeg"><img alt="ArborVista Retreat signature view" loading="lazy" src="images/hero/2732PCu24-5.jpeg"/></button>
+<button class="gallery-item" data-alt="Main living room" data-category="living" data-image="images/living/2732PC-2.jpeg"><img alt="Main living room at ArborVista Retreat" loading="lazy" src="images/living/2732PC-2.jpeg"/></button>
+<button class="gallery-item" data-alt="Comfortable living area" data-category="living" data-image="images/living/2732PC-3.jpeg"><img alt="Comfortable living area at ArborVista Retreat" loading="lazy" src="images/living/2732PC-3.jpeg"/></button>
+<button class="gallery-item" data-alt="Cabin gathering space" data-category="living" data-image="images/living/2732PC-5.jpeg"><img alt="Cabin gathering space at ArborVista Retreat" loading="lazy" src="images/living/2732PC-5.jpeg"/></button>
+<button class="gallery-item" data-alt="Living space detail" data-category="living" data-image="images/living/2732PC-22.jpeg"><img alt="Living space detail at ArborVista Retreat" loading="lazy" src="images/living/2732PC-22.jpeg"/></button>
+<button class="gallery-item" data-alt="Fully equipped kitchen" data-category="kitchen" data-image="images/kitchen/2732PC-10.jpeg"><img alt="Fully equipped kitchen at ArborVista Retreat" loading="lazy" src="images/kitchen/2732PC-10.jpeg"/></button>
+<button class="gallery-item" data-alt="Cabin kitchen" data-category="kitchen" data-image="images/kitchen/2732PC-11.jpeg"><img alt="Cabin kitchen at ArborVista Retreat" loading="lazy" src="images/kitchen/2732PC-11.jpeg"/></button>
+<button class="gallery-item" data-alt="Kitchen detail" data-category="kitchen" data-image="images/kitchen/2732PC-29.jpeg"><img alt="Kitchen detail at ArborVista Retreat" loading="lazy" src="images/kitchen/2732PC-29.jpeg"/></button>
+<button class="gallery-item" data-alt="Dining area" data-category="kitchen" data-image="images/dinning/2732PC-7.jpeg"><img alt="Dining area at ArborVista Retreat" loading="lazy" src="images/dinning/2732PC-7.jpeg"/></button>
+<button class="gallery-item" data-alt="Primary bedroom" data-category="bedrooms" data-image="images/bedrooms/2732PC-24.jpeg"><img alt="Primary bedroom at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-24.jpeg"/></button>
+<button class="gallery-item" data-alt="Bedroom detail" data-category="bedrooms" data-image="images/bedrooms/2732PC-25.jpeg"><img alt="Bedroom detail at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-25.jpeg"/></button>
+<button class="gallery-item" data-alt="Comfortable bedroom" data-category="bedrooms" data-image="images/bedrooms/2732PC-26.jpeg"><img alt="Comfortable bedroom at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-26.jpeg"/></button>
+<button class="gallery-item" data-alt="Guest bedroom" data-category="bedrooms" data-image="images/bedrooms/2732PC-30.jpeg"><img alt="Guest bedroom at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-30.jpeg"/></button>
+<button class="gallery-item" data-alt="Bedroom seating and details" data-category="bedrooms" data-image="images/bedrooms/2732PC-31.jpeg"><img alt="Bedroom seating and details at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-31.jpeg"/></button>
+<button class="gallery-item" data-alt="Cabin sleeping space" data-category="bedrooms" data-image="images/bedrooms/2732PC-32.jpeg"><img alt="Cabin sleeping space at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-32.jpeg"/></button>
+<button class="gallery-item" data-alt="Bedroom retreat" data-category="bedrooms" data-image="images/bedrooms/2732PC-34.jpeg"><img alt="Bedroom retreat at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-34.jpeg"/></button>
+<button class="gallery-item" data-alt="Bedroom furnishings" data-category="bedrooms" data-image="images/bedrooms/2732PC-35.jpeg"><img alt="Bedroom furnishings at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-35.jpeg"/></button>
+<button class="gallery-item" data-alt="Additional bedroom" data-category="bedrooms" data-image="images/bedrooms/2732PC-37.jpeg"><img alt="Additional bedroom at ArborVista Retreat" loading="lazy" src="images/bedrooms/2732PC-37.jpeg"/></button>
+<button class="gallery-item" data-alt="Cabin bathroom" data-category="bathrooms" data-image="images/bathrooms/2732PC-27.jpeg"><img alt="Cabin bathroom at ArborVista Retreat" loading="lazy" src="images/bathrooms/2732PC-27.jpeg"/></button>
+<button class="gallery-item" data-alt="Bathroom vanity and finishes" data-category="bathrooms" data-image="images/bathrooms/2732PC-28.jpeg"><img alt="Bathroom vanity and finishes at ArborVista Retreat" loading="lazy" src="images/bathrooms/2732PC-28.jpeg"/></button>
+<button class="gallery-item" data-alt="Additional bathroom" data-category="bathrooms" data-image="images/bathrooms/2732PC-33.jpeg"><img alt="Additional bathroom at ArborVista Retreat" loading="lazy" src="images/bathrooms/2732PC-33.jpeg"/></button>
+<button class="gallery-item" data-alt="Private hot tub" data-category="hot-tub" data-image="images/hot-tub/2732PC-20.jpeg"><img alt="Private hot tub at ArborVista Retreat" loading="lazy" src="images/hot-tub/2732PC-20.jpeg"/></button>
+<button class="gallery-item" data-alt="Hot tub and outdoor relaxation" data-category="hot-tub" data-image="images/hot-tub/2732PC-21.jpeg"><img alt="Hot tub and outdoor relaxation at ArborVista Retreat" loading="lazy" src="images/hot-tub/2732PC-21.jpeg"/></button>
+</div>
+</section>
+<section class="nearby section" id="nearby"><div class="section-heading reveal"><p class="eyebrow">Nearby attractions</p><h2>Adventure by day.<br/>Peace and privacy by night.</h2><p class="section-lede">Explore the Smokies, then return to a quiet gated mountain setting away from downtown noise and traffic.</p></div><div class="attraction-grid reveal">
+<article><span>9 mi</span><h3>The Island</h3><p>Dining, shopping, rides, and evening fountain shows in Pigeon Forge.</p></article>
+<article><span>12 mi</span><h3>Dollywood</h3><p>Family rides, live entertainment, crafts, and seasonal festivals.</p></article>
+<article><span>14 mi</span><h3>Great Smoky Mountains National Park</h3><p>Trails, waterfalls, scenic drives, and wildlife viewing.</p></article>
+<article><span>17 mi</span><h3>Anakeesta</h3><p>Mountain-top attractions, gardens, dining, and panoramic views.</p></article>
+<article><span>17 mi</span><h3>Gatlinburg SkyBridge</h3><p>A signature mountain experience above downtown Gatlinburg.</p></article>
+<article><span>23 mi</span><h3>Roaring Fork Motor Nature Trail</h3><p>A scenic loop featuring historic sites, streams, and trail access.</p></article>
+<article><span>33 mi</span><h3>Cades Cove</h3><p>A celebrated valley loop known for wildlife and historic buildings.</p></article>
+<article><span>26 mi</span><h3>Soaky Mountain Waterpark</h3><p>A seasonal waterpark with family slides, pools, and play areas.</p></article>
+</div></section><section class="guide section" id="guide">
+<div class="section-heading reveal"><p class="eyebrow">Plan your getaway</p><h2>Build your perfect Smokies day.</h2></div>
+<div class="planner reveal">
+<div aria-label="Choose trip type" class="planner-options" role="group">
+<button class="active" data-plan="family">Family adventure</button><button data-plan="romantic">Relaxing escape</button><button data-plan="outdoors">Outdoor weekend</button><button data-plan="dollywood">Dollywood trip</button>
+</div>
+<div aria-live="polite" class="planner-result" id="plannerResult"></div>
+</div>
+<div class="live-strip reveal">
+<div><span class="eyebrow">Sevierville now</span><strong id="weatherTemp">Loading weather…</strong><small id="weatherDetail">Live conditions via Open-Meteo</small></div>
+<div><span class="eyebrow">Best rhythm</span><strong>Explore by day</strong><small>Hot tub and fireside evenings after</small></div>
+<div><span class="eyebrow">Local time</span><strong id="localTime">—</strong><small>Eastern Time</small></div>
+</div>
+<div class="destination-grid reveal">
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Dollywood" rel="noopener" target="_blank"><span>Family favorite</span><h3>Dollywood</h3><p>Coasters, crafts, music, and seasonal celebrations.</p><b>Open in Maps ↗</b></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=The+Island+in+Pigeon+Forge" rel="noopener" target="_blank"><span>Easy evening</span><h3>The Island</h3><p>Dining, attractions, shops, and fountain shows.</p><b>Open in Maps ↗</b></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Great+Smoky+Mountains+National+Park" rel="noopener" target="_blank"><span>Nature day</span><h3>Great Smoky Mountains</h3><p>Scenic drives, waterfalls, wildlife, and trails.</p><b>Open in Maps ↗</b></a>
+<a href="https://www.google.com/maps/search/?api=1&amp;query=Gatlinburg+TN" rel="noopener" target="_blank"><span>Mountain town</span><h3>Gatlinburg</h3><p>Walkable attractions, dining, and mountain views.</p><b>Open in Maps ↗</b></a>
+</div>
+</section>
+<section class="location section" id="location">
+<div class="location-copy reveal"><p class="eyebrow">Explore the Smokies</p><h2>Close to the action.<br/>Grounded in nature.</h2><p>Use ArborVista Retreat as your home base for scenic drives, family attractions, mountain trails, and memorable meals throughout Sevierville, Pigeon Forge, and Gatlinburg.</p><div class="location-links"><a href="https://www.google.com/maps/search/?api=1&amp;query=Sevierville+TN" rel="noopener" target="_blank">Explore Sevierville ↗</a><a href="https://www.nps.gov/grsm/" rel="noopener" target="_blank">Great Smoky Mountains ↗</a></div></div>
+<button class="map-card reveal" data-alt="Area map for ArborVista Retreat" data-image="images/Area%20Map.png"><img alt="Map showing ArborVista Retreat near Pigeon Forge, Gatlinburg, Dollywood, and Great Smoky Mountains National Park" loading="lazy" src="images/Area%20Map.png"/><span>Open area map ↗</span></button>
+</section>
+<section class="testimonial section" id="reviews"><div class="testimonial-inner reveal"><p aria-label="Five star guest review" class="stars">★★★★★</p><blockquote>“This cabin has stood out among all the others we've stayed at — extremely clean and cozy, private, with a pristine hot tub and all the listed amenities.”</blockquote><p class="review-source">— Verified guest testimonial</p><a class="button button-dark" href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1" rel="noopener" target="_blank">View dates &amp; pricing</a></div></section><section class="airbnb-section section" id="book">
+<div class="airbnb-copy reveal"><p class="eyebrow">Check live availability, current rates, fees, and verified booking details securely on Airbnb.</p><h2>Ready to trade the crowds for mountain calm?</h2><p>See live availability, current pricing, house details, and verified guest reviews directly on Airbnb.</p><a class="button button-dark" href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1" rel="noopener" target="_blank">View dates &amp; pricing</a></div>
+<div class="airbnb-card reveal"><div class="airbnb-embed-frame" data-hide-price="true" data-id="1587774879621242014" data-view="home" style="width:450px;height:300px;margin:auto;max-width:100%;"><a href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View On Airbnb</a><a href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Home in Sevierville · 2 bedrooms + open loft · 4 beds · 2.5 baths · sleeps 6</a><script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div></div>
+</section>
+<section class="rules section" id="rules"><div class="section-heading reveal"><p class="eyebrow">Before you book</p><h2>Clear expectations.<br/>A better stay for everyone.</h2></div><div class="rules-grid reveal"><article><h3>Age requirement</h3><p>The primary guest must be at least 23 years old and remain at the property during the reservation.</p></article><article><h3>Strictly pet-free</h3><p>No pets are permitted. Violations may result in a $500 fee and immediate removal without refund.</p></article><article><h3>No smoking or vaping</h3><p>Smoking and vaping are prohibited inside the cabin. A $2,000 cleaning and deodorizing fee may apply.</p></article><article><h3>Rental agreement</h3><p>A signed electronic rental agreement is required after booking.</p></article><article><h3>Maximum occupancy</h3><p>The cabin accommodates no more than six overnight guests.</p></article><article><h3>Protect your trip</h3><p>Travel insurance is recommended for weather, power outages, illness, and other unexpected disruptions.</p></article></div></section><section class="faq section" id="faq">
+<div class="section-heading reveal"><p class="eyebrow">Good to know</p><h2>Frequently asked</h2></div>
+<div class="accordion reveal"><details><summary>How many guests can the cabin accommodate, and what's the bed and bath layout?<span>+</span></summary><p>The cabin comfortably sleeps six across two main-level suites: a King suite and a Queen suite, each with a private ensuite bathroom. The open upper loft has two twin beds and arcade games, making it especially well suited for kids or teens. The cabin has 2.5 bathrooms: two full ensuite bathrooms plus one main-level half bathroom.</p></details><details><summary>Is parking available?<span>+</span></summary><p>Yes. Free off-street parking is available on site for two to three vehicles.</p></details><details><summary>Are pets allowed?<span>+</span></summary><p>No. ArborVista Retreat is a strictly pet-free home. Unauthorized pets may result in a $500 fee and immediate removal without refund.</p></details><details><summary>Is smoking allowed?<span>+</span></summary><p>No smoking or vaping is permitted inside the cabin. A $2,000 cleaning and deodorizing fee may apply for violations.</p></details><details><summary>Is there an age requirement to book?<span>+</span></summary><p>Yes. The primary guest must be 23 or older and must remain at the cabin throughout the reservation.</p></details><details><summary>What resort amenities are included?<span>+</span></summary><p>Guests receive complimentary access to Shagbark Resort amenities, including the seasonal community pool, pickleball and tennis courts, basketball court, playground, frisbee golf, cornhole, fitness trail, dog park, picnic pavilion, and gated entrance. The pool is generally open Memorial Day through Labor Day from 9:00 AM to 9:00 PM, subject to resort operations and posted rules.</p></details><details><summary>How far is the cabin from Pigeon Forge, Gatlinburg, and Dollywood?<span>+</span></summary><p>The Island in Pigeon Forge is about 9 miles away, Dollywood is 12 miles away, Great Smoky Mountains National Park is 14 miles away, and major Gatlinburg attractions such as Anakeesta and the SkyBridge are roughly 17 miles away.</p></details><details><summary>How does check-in work?<span>+</span></summary><p>Self check-in is provided through a personalized smart-lock code sent three days before arrival. There is no office stop or key pickup. Check-in begins at 4:00 PM and checkout is by 10:00 AM.</p></details><details><summary>Is Wi-Fi available?<span>+</span></summary><p>Yes. Strong Wi-Fi is included throughout the cabin for streaming, trip planning, and remote work.</p></details><details><summary>What's the cancellation policy?<span>+</span></summary><p>For reservations made through Airbnb, the cancellation terms displayed during checkout and in your confirmed reservation apply. A processing fee of 3% or $75, whichever is higher, may apply where permitted. Review the full terms before booking.</p></details><details><summary>Is a rental agreement required?<span>+</span></summary><p>Yes. A signed electronic rental agreement is sent shortly after your reservation is confirmed and must be completed before arrival.</p></details><details><summary>Where do I see current pricing and availability?<span>+</span></summary><p>Live nightly rates, fees, minimum-stay requirements, and open dates are always shown on the Airbnb listing, which remains the current source of truth for booking information.</p></details></div>
+</section>
+<section class="closing"><div aria-hidden="true" class="closing-bg"></div><div class="closing-shade"></div><div class="closing-content reveal"><p class="eyebrow light">Your mountain time starts here</p><h2>Make room for<br/><em>something memorable.</em></h2><a class="button button-light" href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1" rel="noopener" target="_blank">Book ArborVista Retreat</a></div></section>
+</main>
+<footer><a class="footer-brand" href="#top"><img alt="ArborVista Retreat" height="55" src="assets/logo-light.svg" width="210"/></a><div><p>Sevierville, Tennessee</p><p>© <span id="year"></span> ArborVista Retreat</p></div><div class="footer-links"><a href="#stay">Amenities</a><a href="#nearby">Nearby</a><a href="#reviews">Reviews</a><a href="#rules">House rules</a><a href="#faq">FAQ</a><a href="https://www.airbnb.com/rooms/1587774879621242014" rel="noopener" target="_blank">Airbnb ↗</a></div></footer>
+<a class="mobile-book" href="https://www.airbnb.com/rooms/1587774879621242014?guests=1&amp;adults=1" rel="noopener" target="_blank"><span>ArborVista Retreat</span><strong>Check availability</strong></a>
+<dialog class="lightbox" id="lightbox"><button aria-label="Close image" class="lightbox-close">×</button><button aria-label="Previous image" class="lightbox-nav prev">‹</button><img alt="" src=""/><button aria-label="Next image" class="lightbox-nav next">›</button><p></p><span class="lightbox-count"></span></dialog>
+<script defer="" src="js/main.js"></script>
+</body>
+</html>
